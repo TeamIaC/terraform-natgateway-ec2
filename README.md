@@ -1,6 +1,6 @@
 # terraform-natgateway-ec2
 
-TerraformでVPC、NAT Gateway、EC2×2 の作成
+![Blank diagram - Page 1](https://user-images.githubusercontent.com/73768462/167905997-ee509b6f-b10f-445f-8f18-7f44b6d6edaa.png)
 
 鍵を生成する
 ```
