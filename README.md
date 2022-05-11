@@ -40,12 +40,3 @@ cd /tmp
 ```
 ssh -i example ec2-user@<プライベートサブネットのEC2のPrivate IP>
 ```
-
-
-ssh -i example ec2-user@54.178.230.95
-
-ssh -i example ec2-user@10.0.1.76
-
-nat_gateway_private_ip = "10.0.0.100"
-nat_gateway_public_ip = "35.74.97.195"
-public_ip = "54.178.230.95"

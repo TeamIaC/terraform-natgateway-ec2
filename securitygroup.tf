@@ -1,9 +1,9 @@
 # セキュリティーグループ
 resource "aws_security_group" "security_group" {
-      name = "online-code-sg"
+      name = "security-group"
       vpc_id = aws_vpc.vpc.id
       tags = {
-            Name = "online-code-sg"
+            Name = "security-group"
       }
 }
 
